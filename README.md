@@ -5,3 +5,6 @@ DATA
 1.
 2.
 3.
+Table of Contents (Queries):
+Loading in Data
+Identifying Reviews as Positive, Negative, 
