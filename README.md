@@ -2,7 +2,7 @@ This is a project to showcase my SQL skills using Olympic Historical Dataset. Th
 .
 
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
-These files are historical Olypic Data (1900-2016). This is a front to back evaluation of the data beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau. 
+These files are historical Olympic Data (1900-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau. 
 
 ### Table of Contents
 1. Loading Data (SQL)
