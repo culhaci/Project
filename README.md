@@ -25,7 +25,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 ## SQL Import and Data Files:
 
 1. [Loading in Data](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-2. [CSV file for SQL Upload](https://github.com/culhaci/Project/blob/master/Loading%20Data)
+2. [CSV files for SQL Upload](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 
 
 ## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
