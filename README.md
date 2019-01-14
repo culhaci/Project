@@ -1,4 +1,6 @@
-This is a project to showcase my SQL skills using Olympic Historical Dataset. I would like to look at countries' olympic success from GDP perspective and to have a closer look at to USA Female Gymnastics Olympic Team members if there is a significant change over time in terms of their biometric measurements.
+This is a project to showcase my SQL skills using Olympic Historical Dataset. 
+
+I would like to look at countries' olympic success from GDP perspective and to have a closer look at to USA Female Gymnastics Olympic Team members if there is a significant change over time in terms of their biometric measurements.
 .
 
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
