@@ -25,14 +25,14 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 ## SQL Import and Data Files:
 
 1. [Loading in Data](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-2. [CSV file for SQL Upload]((https://github.com/culhaci/Project/blob/master/Loading%20Data)
+2. [CSV file for SQL Upload](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 
 
 ## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
 
 3. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 4. [ALTER TABLE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-5. [CASE]((https://github.com/culhaci/Project/blob/master/Loading%20Data)
+5. [CASE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 6. [WHERE and HAVING](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_WHERE_HAVING.sql)
 7. [JOIN](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_JOIN_rul_test_fd01.sql)
 8. [UNION](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_union_test_rul.sql)
