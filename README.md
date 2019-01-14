@@ -15,8 +15,8 @@ GDP per capita is a measure of a country's economic output that accounts for its
 
 For GDP_Per_Capita, I used the United Nations publicly available data sets ([link](https://www.un.org/en/development/desa/population/publications/database/index.shtml)).
 
-#### #Calculations using Excel:
-## Olympic Data: 
+#### Calculations using Excel:
+1.##1. Olympic Data: 
 In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", named as "Medal" in Excel using "IF/Condition"function.
 ## GDP Data:
 I would like to use GDP Per Capita amounts together with its ranking amoung other countries. There fore, I used the "Rank" function in Excel to calculate the Rankings.
