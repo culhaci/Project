@@ -9,12 +9,15 @@ This dataset is publicly available at (https://www.kaggle.com/heesoo37/120-years
 The data contains 120 years of Olympic history: athletes,results and basic bio data (age, height and weight) on athletes and medal results from Athens 1896 to Rio 2016. This "Olympic" data consists of 2 parts: Summer Olympics and Winter Olympics.
 
 ## Historical GDP Data: 
-GDP per capita is a measure of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population. That makes it the best measurement of a country's standard of living. For more information, [link](https://www.google.com/search?ei=sU88XMuTOtrC0PEP__WG0AU&q=gdp+per+capita+definition&oq=gdp+per+capita+&gs_l=psy-ab.1.0.0i67l7j0j0i67l2.13402.13402..15110...0.0..0.82.82.1......0....1..gws-wiz.......0i71.NSd4EQsxHEg).
+GDP per capita is a measure of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population. That makes it the best measurement of a country's standard of living. GDP Per Capita is measured in US Dollars and the higher is dollar amount, shows a higher quality of life.For more information, [link](https://www.google.com/search?ei=sU88XMuTOtrC0PEP__WG0AU&q=gdp+per+capita+definition&oq=gdp+per+capita+&gs_l=psy-ab.1.0.0i67l7j0j0i67l2.13402.13402..15110...0.0..0.82.82.1......0....1..gws-wiz.......0i71.NSd4EQsxHEg).
 
 For GDP_Per_Capita, I used the United Nations publicly available data sets ([link](https://www.un.org/en/development/desa/population/publications/database/index.shtml)).
 
-#### #Calculations:
-In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", named as "Medal" in Excel using "IF/Condition" structures.
+#### #Calculations using Excel:
+## Olympic Data: 
+In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", named as "Medal" in Excel using "IF/Condition"function.
+## GDP Data:
+I would like to use GDP Per Capita amounts together with its ranking amoung other countries. There fore, I used the "Rank" function in Excel to calculate the Rankings.
 
 ### Table of Contents
 1. Loading Data (SQL)
