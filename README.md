@@ -2,7 +2,10 @@ This is a project to showcase my SQL skills using Olympic Historical Dataset. Th
 .
 
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
-These files are historical Olympic Data (1900-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau. 
+These files are historical Olympic Data (1896-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau.
+
+This data contains 120 years of Olympic history: athletes,resultsa and basic bio data on athletes and medal results from 
+Athens 1896 to Rio 2016.
 
 ### Table of Contents
 1. Loading Data (SQL)
