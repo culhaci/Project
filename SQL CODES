@@ -1,2 +1,3 @@
-select * from da_auto.auto_2012
-limit 5
+BEGIN;
+
+-- this file will add the pub
