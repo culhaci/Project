@@ -1,3 +1,61 @@
-BEGIN;
+-- NOTE: This creates the da_olympic schema and the Summer data to SQL
 
--- this file will add the pub
+BEGIN;
+CREATE SCHEMA IF NOT EXISTS da_olympic;
+
+DROP TABLE IF EXISTS da_olympic.Summer;
+
+CREATE TABLE IF NOT EXISTS Summer(
+	ID_var INTEGER,
+	Name_var TEXT,
+	Sex TEXT,
+	Age INTEGER,
+	Height INTEGER,
+	Weight INTEGER,
+	Team TEXT,
+	NOC TEXT,
+	Games TEXT,
+	Year_var DATE,
+	City TEXT,
+	Sport TEXT,
+	Event_var TEXT,
+	Result_var TEXT,
+	Medal INTEGER
+); 
+
+-- Add a copy statement to load the SUMMER data into the 
+COPY Summer FROM '\Users\AC\Desktop\DATA-DA\Summer.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+COMMIT;
+
+-- NOTE: This creates the da_olympic schema and the Winter data to SQL
+
+BEGIN;
+CREATE SCHEMA IF NOT EXISTS da_olympic;
+
+DROP TABLE IF EXISTS da_olympic.Winter;
+
+CREATE TABLE IF NOT EXISTS Winter(
+	ID_var INTEGER,
+	Name_var TEXT,
+	Sex TEXT,
+	Age INTEGER,
+	Height INTEGER,
+	Weight INTEGER,
+	Team TEXT,
+	NOC TEXT,
+	Games TEXT,
+	Year_var DATE,
+	City TEXT,
+	Sport TEXT,
+	Event_var TEXT,
+	Result_var TEXT,
+	Medal INTEGER
+); 
+
+-- Add a copy statement to load the Winter data into the 
+COPY Summer FROM '\Users\AC\Desktop\DATA-DA\Winter.csv'
+WITH HEADER DELIMITER ',' CSV;
+
+COMMIT;
