@@ -9,7 +9,7 @@ This dataset is publicly available at (https://www.kaggle.com/heesoo37/120-years
 The data contains 120 years of Olympic history: athletes,results and basic bio data (age, height and weight) on athletes and medal results from Athens 1896 to Rio 2016. This "Olympic" data consists of 2 parts: Summer Olympics and Winter Olympics.
 
 ## Historical GDP Data: 
-GDP per capita is a measure of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population. That makes it the best measurement of a country's standard of living. For more information, <link>(https://www.google.com/search?ei=sU88XMuTOtrC0PEP__WG0AU&q=gdp+per+capita+definition&oq=gdp+per+capita+&gs_l=psy-ab.1.0.0i67l7j0j0i67l2.13402.13402..15110...0.0..0.82.82.1......0....1..gws-wiz.......0i71.NSd4EQsxHEg).
+GDP per capita is a measure of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population. That makes it the best measurement of a country's standard of living. For more information, [link](https://www.google.com/search?ei=sU88XMuTOtrC0PEP__WG0AU&q=gdp+per+capita+definition&oq=gdp+per+capita+&gs_l=psy-ab.1.0.0i67l7j0j0i67l2.13402.13402..15110...0.0..0.82.82.1......0....1..gws-wiz.......0i71.NSd4EQsxHEg).
 
 #### #Calculations:
 In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", named as "Medal" in Excel using "IF/Condition" structures.
