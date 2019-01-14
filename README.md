@@ -1,4 +1,4 @@
-This is a project to showcase my SQL skills using Olympic Historical Dataset. This dataset is the publicly available at(
+This is a project to showcase my SQL skills using Olympic Historical Dataset. This dataset is the publicly available at(https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 .
 
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
