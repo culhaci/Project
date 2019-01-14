@@ -22,7 +22,7 @@ In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", nam
 I would like to use GDP Per Capita amounts together with its ranking amoung other countries. There fore, I used the "Rank" function in Excel to calculate the Rankings.
 
 ### Table of Contents
-1. [Loading Data (SQL)]
+1. [Loading Data (SQL)]()
 2. xxxxxxx
 3. xxxxxx
 4. xxxxxxxx
