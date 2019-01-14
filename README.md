@@ -1,11 +1,12 @@
-This is a project to showcase my SQL skills using Olympic Historical Dataset. This dataset is the publicly available at(https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+This is a project to showcase my SQL skills using Olympic Historical Dataset. This dataset is publicly available at (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 .
 
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
 These files are historical Olympic Data (1896-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau.
 
-This data contains 120 years of Olympic history: athletes,resultsa and basic bio data on athletes and medal results from 
-Athens 1896 to Rio 2016.
+This data contains 120 years of Olympic history: athletes,results and basic bio data (age, height and weight) on athletes and medal results from Athens 1896 to Rio 2016. This "Olympic" data consists of 2 parts: Summer Olympics and Winter Olympics.
+
+#Calculations:
 
 ### Table of Contents
 1. Loading Data (SQL)
