@@ -81,7 +81,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 * [Pivot table]
 
 ## Visualizations: Links go to Tableau Public Page
-* [A]
+* [A](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Participation_year_graph?publish=yes)
 * [B]
 * [C]
 
