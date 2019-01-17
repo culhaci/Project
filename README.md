@@ -34,7 +34,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 4. [ALTER TABLE](https://github.com/culhaci/Project/blob/master/ALTER%20TABLE)
 5. [CASE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 6. [WHERE and HAVING](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_WHERE_HAVING.sql)
-7. [JOIN](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_JOIN_rul_test_fd01.sql)
+7. [JOIN](https://github.com/culhaci/Project/blob/master/JOIN)
 8. [UNION](https://github.com/culhaci/Project/blob/master/UNION)
 
 
