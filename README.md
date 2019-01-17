@@ -6,7 +6,7 @@ I would like to look at countries' olympic successes from GDP perspective and to
 ## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
 These files are historical Olympic Data (1896-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau.
 
-This dataset is publicly available at (https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+This dataset is publicly available at [www.kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
 The data contains 120 years of Olympic history: athletes,results and basic bio data (age, height and weight) on athletes and medal results from Athens 1896 to Rio 2016. This "Olympic" data consists of 2 parts: Summer Olympics and Winter Olympics.
 
