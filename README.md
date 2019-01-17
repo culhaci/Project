@@ -3,7 +3,7 @@ This is a project to showcase my SQL/Excel/Tableau skills using Olympic Historic
 I would like to look at countries' olympic successes from GDP perspective and to have a closer look at USA Female Gymnastics Olympic Team members if there is a significant change over time in terms of their biometric measurements.
 .
 
-## Olympic Data: [Data Files](https://github.com/culhaci/Project/tree/master/Data_Files) 
+## Olympic Data:  
 These files are historical Olympic Data (1896-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau.
 
 This dataset is publicly available at [www.kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
