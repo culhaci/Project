@@ -1,0 +1,4 @@
+---Combine summer and winter data
+SELECT * FROM da_olympic.summer
+UNION 
+SELECT * FROM da_olympic.winter
