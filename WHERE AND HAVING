@@ -1,0 +1,6 @@
+SELECT Country Age Height
+FROM da_olympic.summer
+WHERE Age<20
+GROUP BY 1
+HAVING Height<160
+ORDER BY Country
