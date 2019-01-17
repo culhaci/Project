@@ -1,1 +1,7 @@
 
+SELECT Country, GDP,
+CASE WHEN GDP<10000 THEN "undeveloped"
+     WHEN GDP<30000 THEN "developing"
+	 ELSE "developed"
+	 END AS status
+	 FROM da_olympic.gdp
