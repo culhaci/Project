@@ -1,0 +1,5 @@
+--Adding GDP data on Summer data
+SELECT *
+FROM da_olympic.summer a
+LEFT JOIN da_olympic.gdp b ON a.Country = b.Country
+AND a.Year_var=b.Year;
