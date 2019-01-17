@@ -30,7 +30,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 
 ## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
 
-3. [SUM, AVG,MIN SUBQUERY, ORDER BY and GROUP BY]()
+3. [SUM, AVG,MIN SUBQUERY, ORDER BY and GROUP BY](https://github.com/culhaci/Project/blob/master/SUM%2C%20AVG%2CMIN%2C%20SUBQUERY%2C%20ORDER%20BY%20and%20GROUP%20BY)
 4. [ALTER TABLE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 5. [CASE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 6. [WHERE and HAVING](https://github.com/fischtank44/Engine_training_data/blob/master/SQL_FILES/SQL_WHERE_HAVING.sql)
