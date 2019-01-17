@@ -78,7 +78,7 @@ CREATE TABLE IF NOT EXISTS GDP(
 );
 
 -- Add a copy statement to load the GDP data into the
-COPY GDP FROM C:'\Users\AC\Desktop\DATA-DA\GDP.csv'
+COPY GDP FROM 'C:\Users\AC\Desktop\DATA-DA\GDP.csv'
 WITH HEADER DELIMITER ',' CSV;
 
 COMMIT;
