@@ -1,11 +1,11 @@
--- NOTE: This creates the da_olympic schema and add the Summer data to SQL
+-- NOTE: This creates the da_olympic schema and add the summer data to SQL
 
 BEGIN;
 CREATE SCHEMA IF NOT EXISTS da_olympic;
 
-DROP TABLE IF EXISTS da_olympic.Summer;
+DROP TABLE IF EXISTS da_olympic.summer;
 
-CREATE TABLE IF NOT EXISTS Summer(
+CREATE TABLE IF NOT EXISTS summer(
 	ID_var INTEGER,
 	Name_var TEXT,
 	Sex TEXT,
@@ -24,8 +24,8 @@ CREATE TABLE IF NOT EXISTS Summer(
 	Medal INTEGER
 ); 
 
--- Add a copy statement to load the SUMMER data into the 
-COPY Summer FROM 'C:\Users\AC\Desktop\DATA-DA\Summer.csv'
+-- Add a copy statement to load the summer data into the 
+COPY summer FROM 'C:\Users\AC\Desktop\DATA-DA\summer.csv'
 WITH HEADER DELIMITER ',' CSV;
 
 COMMIT;
@@ -35,9 +35,9 @@ COMMIT;
 BEGIN;
 CREATE SCHEMA IF NOT EXISTS da_olympic;
 
-DROP TABLE IF EXISTS da_olympic.Winter;
+DROP TABLE IF EXISTS da_olympic.winter;
 
-CREATE TABLE IF NOT EXISTS Winter(
+CREATE TABLE IF NOT EXISTS winter(
 	ID_var INTEGER,
 	Name_var TEXT,
 	Sex TEXT,
@@ -56,29 +56,29 @@ CREATE TABLE IF NOT EXISTS Winter(
 	Medal INTEGER
 ); 
 
--- Add a copy statement to load the Winter data into the 
-COPY WInter FROM 'C:\Users\AC\Desktop\DATA-DA\Winter.csv'
+-- Add a copy statement to load the winter data into the 
+COPY winter FROM 'C:\Users\AC\Desktop\DATA-DA\winter.csv'
 WITH HEADER DELIMITER ',' CSV;
 
 COMMIT;
 
 
--- NOTE: This creates the da_olympic schema and add the GDP data to SQL
+-- NOTE: This creates the da_olympic schema and add the gdp data to SQL
 
 BEGIN;
 CREATE SCHEMA IF NOT EXISTS da_olympic;
 
-DROP TABLE IF EXISTS da_olympic.GDP;
+DROP TABLE IF EXISTS da_olympic.gdp;
 
-CREATE TABLE IF NOT EXISTS GDP(
+CREATE TABLE IF NOT EXISTS gdp(
 	Country TEXT,
 	Year_var DATE,
 	GDP INTEGER,
 	Rank INTEGER
 );
 
--- Add a copy statement to load the GDP data into the
-COPY GDP FROM 'C:\Users\AC\Desktop\DATA-DA\GDP.csv'
+-- Add a copy statement to load the gdp data into the
+COPY gdp FROM 'C:\Users\AC\Desktop\DATA-DA\gdp.csv'
 WITH HEADER DELIMITER ',' CSV;
 
 COMMIT;
