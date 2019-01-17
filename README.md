@@ -25,17 +25,15 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 ## SQL Import and Data Files:
 
 1. [Loading in Data](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-2. [CSV files for SQL Upload](https://github.com/culhaci/Project/blob/master/Loading%20Data)
 
+## SQL Queries: 
 
-## SQL Queries: [SQL Files](https://github.com/fischtank44/Engine_training_data/tree/master/SQL_FILES) <-- Click here for details.
-
-3. [SUM, AVG,MIN SUBQUERY, ORDER BY and GROUP BY](https://github.com/culhaci/Project/blob/master/SUM%2C%20AVG%2CMIN%2C%20SUBQUERY%2C%20ORDER%20BY%20and%20GROUP%20BY)
-4. [ALTER TABLE](https://github.com/culhaci/Project/blob/master/ALTER%20TABLE)
-5. [CASE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-6. [WHERE and HAVING](https://github.com/culhaci/Project/blob/master/WHERE%20AND%20HAVING)
-7. [JOIN](https://github.com/culhaci/Project/blob/master/JOIN)
-8. [UNION](https://github.com/culhaci/Project/blob/master/UNION)
+2. [SUM, AVG,MIN SUBQUERY, ORDER BY and GROUP BY](https://github.com/culhaci/Project/blob/master/SUM%2C%20AVG%2CMIN%2C%20SUBQUERY%2C%20ORDER%20BY%20and%20GROUP%20BY)
+3. [ALTER TABLE](https://github.com/culhaci/Project/blob/master/ALTER%20TABLE)
+4. [CASE](https://github.com/culhaci/Project/blob/master/Loading%20Data)
+5. [WHERE and HAVING](https://github.com/culhaci/Project/blob/master/WHERE%20AND%20HAVING)
+6. [JOIN](https://github.com/culhaci/Project/blob/master/JOIN)
+7. [UNION](https://github.com/culhaci/Project/blob/master/UNION)
 
 
 ## Excel Data: [Excel Data]
@@ -44,43 +42,8 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 * [Pivot table] 
 
 
-## Visualizations: [Tableau Discriptions] <-- Click here for details.
+## Visualizations: 
 
-* 
-
-
-
-### Table of Contents
-1. [Loading Data (SQL)](https://github.com/culhaci/Project/blob/master/Loading%20Data)
-2. xxxxxxx
-3. xxxxxx
-4. xxxxxxxx
-5. Excel presentation of results
-6. Tableau visualization of results. (WIP)
-7. Notes on Data
-
-
-
-
-## SQL Import and Data Files:
-1. [Loading in Data]
-2. [CSV file for SQL Upload]
-
-## SQL Queries: [SQL Files] <-- Click here for details.
-3. [SUM, AVG, SUBQUERY, ORDER BY and GROUP BY]
-4. [ALTER TABLE]
-5. [CASE]
-6. [WHERE and HAVING]
-7. [JOIN]
-8. [UNION]
-
-
-## Excel Data: [Excel Data] <-- Click here for details.
-
-* [LOOKUP]
-* [Pivot table]
-
-## Visualizations: Links go to Tableau Public Page
 * [A](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Participation_year_graph?publish=yes)
 * [B]
 * [C]
