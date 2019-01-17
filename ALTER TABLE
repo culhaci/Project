@@ -1,0 +1,4 @@
+-- Alters the name of a column 
+
+ALTER TABLE summer
+RENAME sum_of_medal TO total_medal_count;
