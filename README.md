@@ -1,10 +1,11 @@
 This is a project to showcase my SQL/Excel/Tableau skills using Olympic Historical Dataset. 
 
 I would like to look at countries' olympic successes from GDP perspective and to have a closer look at USA Female Gymnastics Olympic Team members if there is a significant change over time in terms of their biometric measurements.
-.
+
+In this project, I used SQL to extract data and excel to clean data. Tableau was used for visualizations and analyzing the data.
 
 ## Olympic Data:  
-These files are historical Olympic Data (1896-2016). xxxxxxxx beginning by using SQL to extract data, excel to clean data, and analyizing data in Tableau. Finally, ........... using visualizations all in Tableau.
+These files are historical Olympic Data (1896-2016).
 
 This dataset is publicly available at [www.kaggle.com](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
@@ -19,7 +20,7 @@ For GDP_Per_Capita, I used the United Nations publicly available data sets ([lin
 # Olympic Data: 
 In order to calculate the Sum of Medal Counts, I created a "Dummy Variable", named as "Medal" in Excel using "IF/Condition"function.
 # GDP Data:
-I would like to use GDP Per Capita amounts together with its ranking amoung other countries. There fore, I used the "Rank" function in Excel to calculate the Rankings.
+I would like to use GDP Per Capita amounts together with its ranking amoung other countries. Therefore, I used the "Rank" function in Excel to calculate the Rankings.
 
 
 ## SQL Import and Data Files:
