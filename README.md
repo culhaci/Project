@@ -49,7 +49,8 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 
 ## Notes:
 
-*[A. [I had 2 assumptions for the calculations:]]
+*A. I had 2 assumptions for the calculations:]
+
      #[1. Data has correct and complete information]
      #[2. I did not make any calculation mistakes]
 *B. [Some Recommendations for the future study:]
