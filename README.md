@@ -53,9 +53,9 @@ A. I had 2 assumptions for the calculations:
 
      #1. Data has correct and complete information
      #2. I did not make any calculation mistakes
-B. Some Recommendations for the future study:]
+B. Some Recommendations for the future study:
 
-     #[1. We might add "Pupulation" metrics in our calculations]
-     #[2. We might include "Government Budget" and detailed "Spending" on Olympic Division]
-     # [3. We might look into the "Spending of Olympic Division" on each "Event"]
+     1. We might add "Pupulation" metrics in our calculations
+     2. We might include "Government Budget" and detailed "Spending" on Olympic Division
+     3. We might look into the "Spending of Olympic Division" on each "Event"
      
