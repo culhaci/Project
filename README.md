@@ -45,7 +45,8 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 
 ## Visualizations: 
 
-* [A](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash5-USAFemaleGymnasticTeam?publish=yes)
+* [Descriptive Stats](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash8-Facts?publish=yes)
+* [USA Female Gymnastics Team](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash5-USAFemaleGymnasticTeam?publish=yes)
 
 ## Notes:
 
