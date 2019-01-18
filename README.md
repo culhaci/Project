@@ -48,6 +48,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 * [Descriptive Stats](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash8-Facts?publish=yes)
 * [USA Female Gymnastics Team](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash5-USAFemaleGymnasticTeam?publish=yes)
 * [Medal Count by GDP](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash1_Medal_Count_Top20?publish=yes)
+* [Who is the Fastest Man](https://public.tableau.com/profile/aydin.culhaci#!/vizhome/Olympics_214/Dash6-Fastest?publish=yes)
 
 ## Notes:
 
