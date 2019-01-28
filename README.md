@@ -40,7 +40,7 @@ I would like to use GDP Per Capita amounts together with its ranking amoung othe
 ## Excel Data: [Excel Data]
 
 * [VLOOKUP](https://github.com/culhaci/Project/blob/master/VLOOKUP-PARTIAL.xls)
-* [INDEX/MATCH]()
+* [INDEX/MATCH](https://github.com/culhaci/Project/blob/master/INDEX_MATCH_PARTIAL.xls)
 * [Pivot table](googledrive)
 
 
