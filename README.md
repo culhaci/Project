@@ -11,10 +11,14 @@ This dataset is publicly available at [www.kaggle.com](https://www.kaggle.com/he
 
 The data contains 120 years of Olympic history: athletes,results and basic bio data (age, height and weight) on athletes and medal results from Athens 1896 to Rio 2016. This "Olympic" data consists of 2 parts: Summer Olympics and Winter Olympics.
 
+Due to the limitations of uploading large Excel files, the above Excel files (Summer and Winter files are partials) are the sample of the data.
+
 ## Historical GDP Data: 
 GDP per capita is a measure of a country's economic output that accounts for its number of people. It divides the country's gross domestic product by its total population. That makes it the best measurement of a country's standard of living. GDP Per Capita is measured in US Dollars and the higher is dollar amount, shows a higher quality of life.For more information, [link](https://www.google.com/search?ei=sU88XMuTOtrC0PEP__WG0AU&q=gdp+per+capita+definition&oq=gdp+per+capita+&gs_l=psy-ab.1.0.0i67l7j0j0i67l2.13402.13402..15110...0.0..0.82.82.1......0....1..gws-wiz.......0i71.NSd4EQsxHEg).
 
 For GDP_Per_Capita, I used the United Nations publicly available data sets ([link](https://www.un.org/en/development/desa/population/publications/database/index.shtml)).
+
+ Due to the limitations of uploading large Excel files, the above Excel files (GDP file is partial) is the sample of the data.
 
 # Calculations using Excel:
 # Olympic Data: 
